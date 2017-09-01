@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mumu-zookeeper.iml" filepath="$PROJECT_DIR$/mumu-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mumu-zookeeper-curator/mumu-zookeeper-curator.iml" filepath="$PROJECT_DIR$/mumu-zookeeper-curator/mumu-zookeeper-curator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mumu-zookeeper-simple/mumu-zookeeper-simple.iml" filepath="$PROJECT_DIR$/mumu-zookeeper-simple/mumu-zookeeper-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/mumu-zookeeper-zkclient.iml" filepath="$PROJECT_DIR$/mumu-zookeeper-zkclient/mumu-zookeeper-zkclient.iml" />
+    </modules>
+  </component>
+</project>
