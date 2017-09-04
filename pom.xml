@@ -35,6 +35,13 @@
       <artifactId>zookeeper</artifactId>
       <version>3.4.10</version>
     </dependency>
+
+    <!--benchmark高并发测试-->
+    <dependency>
+      <groupId>com.lovecws.mumu</groupId>
+      <artifactId>mumu-benchmark</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <licenses>
