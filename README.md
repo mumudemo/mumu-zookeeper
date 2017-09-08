@@ -1,4 +1,7 @@
 # zookeeper分布式协调服务
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/babymm/mumu-zookeeper/blob/master/LICENSE) [![Maven Central](https://img.shields.io/maven-central/v/com.weibo/motan.svg?label=Maven%20Central)](https://github.com/babymm/mumu-zookeeper) 
+[![Build Status](https://travis-ci.org/mumudemo/mumu-zookeeper.svg?branch=master)](https://travis-ci.org/mumudemo/mumu-zookeeper) [![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)
+
 
 ## zookeeper描述
 >zookeeper是一个分布式协调服务器，可以灵活的处理集群管理、负载均衡、配置管理、分布式锁、leader选举等功能。zookeeper被管饭运用在[hadoop](http://hadoop.apache.org/)、[hbase](http://hbase.apache.org/)、[dubbo](https://github.com/alibaba/dubbo)、[motan](https://github.com/weibocom/motan)、[kafka](http://kafka.apache.org/)等。
@@ -25,3 +28,9 @@ BASE是基本可用、软状态、最终一致性三个短语的缩写。BASE理
 ### 3PC三阶段提交协议
 
 ### paxos算法
+
+
+## 联系方式
+**以上观点纯属个人看法，如有不同，欢迎指正。  
+email:<babymm@aliyun.com>  
+github:[https://github.com/babymm](https://github.com/babymm)** 
