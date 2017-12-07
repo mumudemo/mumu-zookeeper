@@ -8,6 +8,6 @@ public class CuratorAtomicDemo {
     @Test
     public void atomic(){
         CuratorAtomic curatorAtomic=new CuratorAtomic();
-        curatorAtomic.atomic("/curator/atomic2",100);
+        curatorAtomic.atomic("/curator/atomic",100);
     }
 }

@@ -12,7 +12,7 @@ public class CuratorBarrier {
 
     static  DistributedBarrier barrier=null;
     /**
-     * 分布式计数器
+     * 分布式barrier
      * @return
      */
     public String barrier(String path,int currency){

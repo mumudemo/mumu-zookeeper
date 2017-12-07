@@ -23,7 +23,7 @@ public class CuratorAtomic {
                 @Override
                 public void run() {
                     try {
-                        AtomicValue<Integer> add = distributedAtomicInteger.add(currency);
+                        AtomicValue<Integer> add = distributedAtomicInteger.increment();
                         System.out.println("before:"+add.preValue()+",after:"+add.postValue());
                         latch.countDown();
                     } catch (Exception e) {

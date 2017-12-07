@@ -10,7 +10,7 @@ public class ZKClientConnectDemo {
     @Test
     public void zkClient(){
         ZkClient zkClient = new ZKClientConnect().zkClient();
-        List<String> children = zkClient.getChildren("/zookeeper1223");
+        List<String> children = zkClient.getChildren("/zookeeper");
         System.out.println(children);
     }
 

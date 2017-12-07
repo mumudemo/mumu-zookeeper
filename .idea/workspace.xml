@@ -2,48 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="929566af-9c78-4780-9657-4b010c0afddb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lovecws_mumu_mumu_benchmark_1_0_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCreate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorDelete.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorBarrier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorLeader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorMutex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/test/CuratorServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCacheDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCreateDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorDeleteDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomicDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorBarrierDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorLeaderDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorMutexDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/test/CuratorServerDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperTransaction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperBenchmarkClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperServerDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperTransactionDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientCreate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnectDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zookeeper/version-2/log.1" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/App.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/java/com/lovecws/mumu/AppTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorQueueDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-curator/mumu-zookeeper-curator.iml" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/mumu-zookeeper-curator.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-simple/mumu-zookeeper-simple.iml" afterPath="$PROJECT_DIR$/mumu-zookeeper-simple/mumu-zookeeper-simple.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperConfiguration.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorDelete.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorDelete.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomic.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorBarrier.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorBarrier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomicDemo.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomicDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-zkclient/mumu-zookeeper-zkclient.iml" afterPath="$PROJECT_DIR$/mumu-zookeeper-zkclient/mumu-zookeeper-zkclient.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper.iml" afterPath="$PROJECT_DIR$/mumu-zookeeper.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/ZookeeperConfiguration.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorConfiguration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/ZookeeperConnect.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorConnect.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/ZookeeperConnectDemo.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorConnectDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnectDemo.java" afterPath="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnectDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,8 +24,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CuratorQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleDistributedQueue.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/queue/SimpleDistributedQueue.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="79" column="18" lean-forward="false" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CuratorQueueDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorQueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CuratorMutexDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorMutexDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,11 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperConnecttionDemo.java" />
-        <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperConnecttion.java" />
-        <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperCreationDemo.java" />
-        <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperCreation.java" />
-        <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperEdit.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperCreat.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperEditDemo.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperDelete.java" />
@@ -107,13 +111,11 @@
         <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperServer.java" />
         <option value="$PROJECT_DIR$/zookeeper/version-2/log.1" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperServerDemo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperBenchmarkSimple.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperConfiguration.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperBenchmarkClient.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConfiguration.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnect.java" />
-        <option value="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnectDemo.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientCreate.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/ZookeeperConnect.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/ZookeeperCreate.java" />
@@ -133,9 +135,16 @@
         <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/CuratorBarrierDemo.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/CuratorBarrier.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorMutex.java" />
-        <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorDelete.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/test/CuratorServerDemo.java" />
         <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/test/CuratorServer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnectDemo.java" />
+        <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorDelete.java" />
+        <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorBarrier.java" />
+        <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomic.java" />
+        <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomicDemo.java" />
+        <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorQueue.java" />
+        <option value="$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorQueueDemo.java" />
       </list>
     </option>
   </component>
@@ -153,9 +162,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1886" />
-    <option name="height" value="1056" />
+    <option name="x" value="3" />
+    <option name="y" value="3" />
+    <option name="width" value="1876" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -176,20 +186,23 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="mumu-zookeeper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mumu-zookeeper" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mumu-zookeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mumu-zookeeper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,8 +241,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CuratorServerDemo.testServer">
-    <configuration name="CuratorAtomicDemo.atomic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CuratorQueueDemo">
+    <configuration default="false" name="CuratorLeaderDemo.leader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.lovecws.mumu.zookeeper.curator.recipes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mumu-zookeeper-curator" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes" />
+      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes.CuratorLeaderDemo" />
+      <option name="METHOD_NAME" value="leader" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CuratorAtomicDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.lovecws.mumu.zookeeper.curator.recipes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mumu-zookeeper-curator" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes" />
+      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes.CuratorAtomicDemo" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CuratorAtomicDemo.atomic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.lovecws.mumu.zookeeper.curator.recipes.*" />
@@ -253,8 +318,9 @@
       </option>
       <envs />
       <patterns />
+      <method />
     </configuration>
-    <configuration name="CuratorBarrierDemo.atomic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CuratorQueueDemo.queue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.lovecws.mumu.zookeeper.curator.recipes.*" />
@@ -265,8 +331,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes" />
-      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes.CuratorBarrierDemo" />
-      <option name="METHOD_NAME" value="atomic" />
+      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes.CuratorQueueDemo" />
+      <option name="METHOD_NAME" value="queue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -278,8 +344,9 @@
       </option>
       <envs />
       <patterns />
+      <method />
     </configuration>
-    <configuration name="CuratorBarrierDemo.doubleBarrier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CuratorQueueDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.lovecws.mumu.zookeeper.curator.recipes.*" />
@@ -290,9 +357,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes" />
-      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes.CuratorBarrierDemo" />
-      <option name="METHOD_NAME" value="doubleBarrier" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes.CuratorQueueDemo" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -303,87 +370,76 @@
       </option>
       <envs />
       <patterns />
+      <method />
     </configuration>
-    <configuration name="CuratorMutexDemo.lock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.lovecws.mumu.zookeeper.curator.recipes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="mumu-zookeeper-curator" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes" />
-      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.curator.recipes.CuratorMutexDemo" />
-      <option name="METHOD_NAME" value="lock" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
     </configuration>
-    <configuration name="CuratorServerDemo.testServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.lovecws.mumu.zookeeper.curator.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="mumu-zookeeper-curator" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.lovecws.mumu.zookeeper.curator.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.curator.test.CuratorServerDemo" />
-      <option name="METHOD_NAME" value="testServer" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
     </configuration>
-    <configuration name="ZookeeperConnectDemo.connect" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.lovecws.mumu.zookeeper.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="mumu-zookeeper-simple" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.lovecws.mumu.zookeeper.simple" />
-      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.simple.ZookeeperConnectDemo" />
-      <option name="METHOD_NAME" value="connect" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -398,6 +454,161 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -418,12 +629,69 @@
       </option>
       <envs />
       <patterns />
+      <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mumu-zookeeper-simple" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -431,6 +699,13 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -458,21 +733,65 @@
       <envs />
       <properties />
       <listeners />
+      <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CuratorMutexDemo.lock" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CuratorAtomicDemo.atomic" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CuratorBarrierDemo.atomic" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CuratorBarrierDemo.doubleBarrier" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CuratorServerDemo.testServer" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="ZookeeperConnectDemo.connect" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.lovecws.mumu.zookeeper.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mumu-zookeeper-simple" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.lovecws.mumu.zookeeper.simple" />
+      <option name="MAIN_CLASS_NAME" value="com.lovecws.mumu.zookeeper.simple.ZookeeperConnectDemo" />
+      <option name="METHOD_NAME" value="connect" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ZookeeperConnectDemo.connect" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CuratorLeaderDemo.leader" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CuratorAtomicDemo" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CuratorAtomicDemo.atomic" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CuratorQueueDemo.queue" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.CuratorQueueDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CuratorServerDemo.testServer" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CuratorBarrierDemo.doubleBarrier" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CuratorBarrierDemo.atomic" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CuratorAtomicDemo.atomic" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CuratorMutexDemo.lock" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CuratorQueueDemo" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CuratorQueueDemo.queue" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CuratorAtomicDemo.atomic" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CuratorAtomicDemo" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CuratorLeaderDemo.leader" />
       </list>
     </recent_temporary>
   </component>
@@ -497,6 +816,11 @@
       <workItem from="1504486882143" duration="5586000" />
       <workItem from="1504496872377" duration="6574000" />
       <workItem from="1504505588737" duration="9255000" />
+      <workItem from="1504853400183" duration="510000" />
+      <workItem from="1504856854426" duration="14000" />
+      <workItem from="1512452539481" duration="233000" />
+      <workItem from="1512524650858" duration="639000" />
+      <workItem from="1512609401406" duration="7638000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper使用总结，初步了解分布式一致性算法（cap、paxos、chubby、zab等），使用zookeeper、zkclient、curator测试zookeeper程序。编写测试程序，了解各个客户端的功能。">
       <created>1504257549490</created>
@@ -516,39 +840,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CuratorBarrierDemo_doubleBarrier - 2017.09.04 at 16h 29m 26s.xml">
-      <configuration name="CuratorBarrierDemo.doubleBarrier" configurationId="JUnit" />
+    <history-entry file="CuratorAtomicDemo - 2017.12.07 at 10h 38m 33s.xml">
+      <configuration name="CuratorAtomicDemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorBarrierDemo_doubleBarrier - 2017.09.04 at 16h 30m 00s.xml">
-      <configuration name="CuratorBarrierDemo.doubleBarrier" configurationId="JUnit" />
+    <history-entry file="CuratorAtomicDemo - 2017.12.07 at 10h 39m 48s.xml">
+      <configuration name="CuratorAtomicDemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorBarrierDemo_doubleBarrier - 2017.09.04 at 16h 30m 50s.xml">
-      <configuration name="CuratorBarrierDemo.doubleBarrier" configurationId="JUnit" />
+    <history-entry file="CuratorAtomicDemo_atomic - 2017.12.07 at 10h 41m 27s.xml">
+      <configuration name="CuratorAtomicDemo.atomic" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorMutexDemo - 2017.09.04 at 16h 41m 28s.xml">
-      <configuration name="CuratorMutexDemo" configurationId="JUnit" />
+    <history-entry file="CuratorLeaderDemo_leader - 2017.12.07 at 11h 14m 21s.xml">
+      <configuration name="CuratorLeaderDemo.leader" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorServerDemo_testServer - 2017.09.04 at 16h 42m 23s.xml">
-      <configuration name="CuratorServerDemo.testServer" configurationId="JUnit" />
+    <history-entry file="CuratorQueueDemo - 2017.12.07 at 11h 02m 07s.xml">
+      <configuration name="CuratorQueueDemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorServerDemo_testServer - 2017.09.04 at 16h 42m 27s.xml">
-      <configuration name="CuratorServerDemo.testServer" configurationId="JUnit" />
+    <history-entry file="CuratorQueueDemo_queue - 2017.12.07 at 10h 58m 03s.xml">
+      <configuration name="CuratorQueueDemo.queue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorServerDemo_testServer - 2017.09.04 at 16h 43m 14s.xml">
-      <configuration name="CuratorServerDemo.testServer" configurationId="JUnit" />
+    <history-entry file="CuratorQueueDemo_queue - 2017.12.07 at 11h 00m 15s.xml">
+      <configuration name="CuratorQueueDemo.queue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorServerDemo_testServer - 2017.09.04 at 16h 43m 33s.xml">
-      <configuration name="CuratorServerDemo.testServer" configurationId="JUnit" />
+    <history-entry file="ZKClientConnectDemo_zkClient - 2017.12.07 at 09h 48m 26s.xml">
+      <configuration name="ZKClientConnectDemo.zkClient" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorServerDemo_testServer - 2017.09.04 at 16h 43m 56s.xml">
-      <configuration name="CuratorServerDemo.testServer" configurationId="JUnit" />
+    <history-entry file="ZKClientConnectDemo_zkClient - 2017.12.07 at 09h 49m 00s.xml">
+      <configuration name="ZKClientConnectDemo.zkClient" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuratorServerDemo_testServer - 2017.09.04 at 16h 46m 51s.xml">
-      <configuration name="CuratorServerDemo.testServer" configurationId="JUnit" />
+    <history-entry file="ZookeeperConnectDemo_connectWithZookeeper - 2017.12.07 at 09h 35m 11s.xml">
+      <configuration name="ZookeeperConnectDemo.connectWithZookeeper" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48320000" />
+    <option name="totallyTimeSpent" value="57354000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,40 +884,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="1886" height="1056" extended-state="0" />
+    <frame x="3" y="3" width="1876" height="1047" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24889868" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48359787" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4340836" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26889375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24917853" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28414097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -608,37 +934,12 @@
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="71" lean-forward="false" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10.jar!/org/apache/zookeeper/server/ByteBufferOutputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sgroschupf/zkclient/0.1/zkclient-0.1.jar!/org/I0Itec/zkclient/ZkClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="123" column="13" lean-forward="true" selection-start-line="123" selection-start-column="13" selection-end-line="123" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -646,7 +947,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperChildrenDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperBenchmarkClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="39" column="34" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperConnectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="17" column="69" lean-forward="true" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperCreatDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperCreat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="41" column="67" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperTransactionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10.jar!/org/apache/zookeeper/server/ZooKeeperServerMain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/test/java/com/lovecws/mumu/zookeeper/simple/ZookeeperServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -654,277 +1067,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnect.java">
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-simple/src/main/java/com/lovecws/mumu/zookeeper/simple/ZookeeperChildren.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.0.0/curator-client-4.0.0.jar!/org/apache/curator/retry/SleepingRetry.class">
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.0.0/curator-client-4.0.0.jar!/org/apache/curator/RetryPolicy.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sgroschupf/zkclient/0.1/zkclient-0.1.jar!/org/I0Itec/zkclient/serialize/SerializableSerializer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="228">
+          <caret line="32" column="62" lean-forward="false" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.jar!/org/apache/curator/framework/CuratorFrameworkFactory.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sgroschupf/zkclient/0.1/zkclient-0.1.jar!/org/I0Itec/zkclient/serialize/BytesPushThroughSerializer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="78" column="40" lean-forward="false" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="40" />
+        <state relative-caret-position="285">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/src/main/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientCreate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.jar!/org/apache/curator/framework/api/CreateBuilderMain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCreateDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="22" />
+          <caret line="13" column="70" lean-forward="true" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.jar!/org/apache/curator/framework/CuratorFramework.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sgroschupf/zkclient/0.1/zkclient-0.1.jar!/org/I0Itec/zkclient/ZkClient.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        <state relative-caret-position="204">
+          <caret line="71" column="78" lean-forward="true" selection-start-line="71" selection-start-column="78" selection-end-line="71" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.jar!/org/apache/curator/framework/api/DeleteBuilder.class">
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-zkclient/src/test/java/com/lovecws/mumu/zookeeper/zkclient/ZKClientConnectDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="74" lean-forward="false" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+        <state relative-caret-position="209">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.jar!/org/apache/curator/framework/api/DeleteBuilderMain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="77" lean-forward="true" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.jar!/org/apache/curator/framework/api/ChildrenDeletable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorConnectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/cache/NodeCacheListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/cache/NodeCache.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="e#2370#2371#0" expanded="true" />
-            <element signature="e#2411#2412#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/cache/PathChildrenCache.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/cache/TreeCache.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorDeleteDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorLeaderDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/leader/LeaderSelector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="67" column="101" lean-forward="false" selection-start-line="67" selection-start-column="86" selection-end-line="67" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/locks/InterProcessLock.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/locks/InterProcessMutex.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorMutexDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.0.0/curator-client-4.0.0.jar!/org/apache/curator/retry/RetryNTimes.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCacheDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/atomic/DistributedAtomicInteger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="27" column="68" lean-forward="false" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomicDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/barriers/DistributedBarrier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="32" column="75" lean-forward="false" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="75" />
-          <folding>
-            <element signature="e#714#852#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/barriers/DistributedDoubleBarrier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorBarrierDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorLeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorMutex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -936,82 +1139,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorConnect.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.jar!/org/apache/curator/framework/CuratorFrameworkFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCreate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="166">
+          <caret line="35" column="66" lean-forward="true" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorDelete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="52" />
+        <state relative-caret-position="247">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/error.log">
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCreate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="209">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/test/CuratorServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/framework/CuratorCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorLeaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorLeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorAtomic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/test/CuratorServerDemo.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/atomic/DistributedAtomicInteger.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="114">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#3491#3858#0" expanded="true" />
+            <element signature="e#3857#3858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/shared/SharedCount.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/nodes/PersistentNode.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="747" column="18" lean-forward="false" selection-start-line="747" selection-start-column="12" selection-end-line="747" selection-end-column="18" />
+        <state relative-caret-position="-285">
+          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-test/4.0.0/curator-test-4.0.0.jar!/org/apache/curator/test/TestingZooKeeperServer.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/nodes/GroupMember.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-test/4.0.0/curator-test-4.0.0.jar!/org/apache/curator/test/TestingServer.class">
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorMutex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="228">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-test/4.0.0/curator-test-4.0.0.jar!/org/apache/curator/test/QuorumConfigBuilder.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/queue/DistributedQueue.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        <state relative-caret-position="114">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/queue/QueueSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/queue/QueueConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/queue/DistributedPriorityQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/queue/DistributedIdQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/test/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorMutexDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar!/org/apache/curator/framework/recipes/queue/SimpleDistributedQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="79" column="18" lean-forward="false" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1019,7 +1337,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
+          <first_editor relative-caret-position="-339">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1029,13 +1347,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/test/CuratorServer.java">
+    <entry file="file://$PROJECT_DIR$/mumu-zookeeper-curator/src/main/java/com/lovecws/mumu/zookeeper/curator/recipes/CuratorQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="78">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -14,6 +14,7 @@ public class CuratorDelete {
             curatorFramework.
                     delete().
                     deletingChildrenIfNeeded().
+                    withVersion(-1).
                     forPath(path);
         } catch (Exception e) {
             e.printStackTrace();
